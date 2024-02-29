@@ -9,7 +9,7 @@ not_result_y = not y
 print("x and y:", and_result)
 print("x or y:", or_result)
 print("not_x:", not_result_x)
-print("not_y:", not_result_y
+print("not_y:", not_result_y)
 
 
 
