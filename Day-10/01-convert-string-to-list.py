@@ -1,0 +1,1 @@
+folder_path = input("Enter the list of folder paths with a separated space:").split()
